@@ -1,2 +1,0 @@
-node d.js
-pause
